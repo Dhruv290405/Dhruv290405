@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Dhruv290405
-- 👀 I’m interested in web devlopment with problem solving c++
-- 🌱 I’m currently learning dsa and done with web development
-- 💞️ I’m looking to collaborate on making 
--  for contact you can email on this -dhruvtiwari864@gmail.com
+- 👀 Full-Stack Web Developer | Efficient Problem Solver
+JavaScript | Node.js | C++ | Open Source Contributor
+- 💞️ I’m looking to collaborate on making real world projects with great mentors
+-  for contact you can email me - dhruvtiwari864@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: everytime i start with something new something error comes in my journey
+- ⚡ Fun fact: I treat coding like a strategy game — just with more caffeine.
 
 <!---
 Dhruv290405/Dhruv290405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
