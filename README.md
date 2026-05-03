@@ -1,6 +1,5 @@
 # 💫 About Me:
-i'm currently b.tech pre final year student , <img width="512" height="512" alt="arrow" src="https://github.com/user-attachments/assets/81a1af15-dde4-4a58-b973-948ba87ec7f7" />
-MERN+ NEXT.JS Developer , command over c++ and data structure & algo <br>previously freelancer for IITian-Academy<br>contributed to 3 open source socities -( GSSOC , Hacktoberfest , OSCG)<br>2 National level hackathon winner <br>ranked under 15k in google big code challlenge <br>showcased crowd management model to gov. of m.p. for simhastha'28<br>
+I'm currently in B.tech pre final year student , MERN + NEXT.JS Developer , command over c++ and data structure & algo and also a AI-Assisted Developer <br>previously freelancer developer for IITian-Academy<br>contributed to 3 open source socities -( GSSOC , Hacktoberfest , OSCG)<br>2 National level hackathon winner <br>ranked under 15k in google big code challlenge <br>showcased crowd management model to gov. of m.p. for simhastha'28<br>
 
 
 ## 🌐 Socials:
