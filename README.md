@@ -1,16 +1,6 @@
 # 💫 About Me:
 
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="16"/> B.Tech pre-final year student, MERN + Next.js Developer, C++ & DSA, AI-assisted developer</br>
-
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="16"/> Freelance developer for IITian-Academy</br>
-
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="16"/> Contributor: GSSoC, Hacktoberfest, OSCG</br>
-
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="16"/> 2× National level hackathon winner</br>
-
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="16"/> Ranked under 15k in Google Big Code Challenge</br>
-
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="16"/> Presented crowd management model to Govt. of MP</br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1200&pause=200&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+Pre-Final+Year+Student;MERN+%2B+Next.js+Developer;Strong+in+C%2B%2B+%26+DSA;AI-Assisted+Developer;Freelancer+at+IITian-Academy;Open+Source+Contributor+(GSSoC%2C+Hacktoberfest%2C+OSCG);2x+National+Hackathon+Winner;Top+15k+Google+Code+Challenge;Presented+Model+to+Govt.+of+MP+(Simhastha+2028)">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dhruv002328) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruv-tiwari) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32609608/dhruv-tiwari) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC7TDitdIvKAIGZgcZoZJ4MQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvtiwari864@gmail.com) 
