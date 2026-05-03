@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm currently in B.tech pre final year student , MERN + NEXT.JS Developer , command over c++ and data structure & algo and also a AI-Assisted Developer <br>previously freelancer developer for IITian-Academy<br>contributed to 3 open source socities -( GSSOC , Hacktoberfest , OSCG)<br>2 National level hackathon winner <br>ranked under 15k in google big code challlenge <br>showcased crowd management model to gov. of m.p. for simhastha'28<br>
+<img src="https://cdn-icons-png.flaticon.com/512/19009/19009706.png" width="16"/> I'm currently in B.Tech pre-final year student, MERN + Next.js Developer, command over C++ and Data Structures & Algorithms and also an AI-Assisted Developer <br>
+
+<img src="https://cdn-icons-png.flaticon.com/512/19009/19009706.png" width="16"/> Previously freelancer developer for IITian-Academy <br>
+
+<img src="https://cdn-icons-png.flaticon.com/512/19009/19009706.png" width="16"/> Contributed to 3 open source societies - (GSSoC, Hacktoberfest, OSCG) <br>
+
+<img src="https://cdn-icons-png.flaticon.com/512/19009/19009706.png" width="16"/> 2 National level hackathon winner <br>
+
+<img src="https://cdn-icons-png.flaticon.com/512/19009/19009706.png" width="16"/> Ranked under 15k in Google Big Code Challenge <br>
+
+<img src="https://cdn-icons-png.flaticon.com/512/19009/19009706.png" width="16"/> Showcased crowd management model to Govt. of M.P. for Simhastha'28 <br>
 
 
 ## 🌐 Socials:
