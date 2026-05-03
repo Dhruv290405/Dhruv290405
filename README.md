@@ -1,7 +1,17 @@
 # 💫 About Me:
-<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Developer;Open+Source+Contributor;Hackathon+Winner&color=00F7FF&center=true&width=500&height=50">
+<ul>
+<li><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="16"/> B.Tech pre-final year student, MERN + Next.js Developer, C++ & DSA, AI-assisted developer</li>
 
+<li><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="16"/> Freelance developer for IITian-Academy</li>
 
+<li><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="16"/> Contributor: GSSoC, Hacktoberfest, OSCG</li>
+
+<li><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="16"/> 2× National level hackathon winner</li>
+
+<li><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="16"/> Ranked under 15k in Google Big Code Challenge</li>
+
+<li><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="16"/> Presented crowd management model to Govt. of MP</li>
+</ul>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dhruv002328) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruv-tiwari) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32609608/dhruv-tiwari) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC7TDitdIvKAIGZgcZoZJ4MQ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvtiwari864@gmail.com) 
 
